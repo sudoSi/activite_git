@@ -1,0 +1,1 @@
+/* un script qui fait rien */
